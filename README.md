@@ -2,7 +2,7 @@
 #### Frontend developer and Technical Writer
 
 #### Stack: React JS/Next JS
-
+##### aarondamilola1998@gmail.com
 <!--
 **Aarond2018/Aarond2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
