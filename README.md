@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aaron-damilola-a52268190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarond2018&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarond2018&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
